@@ -1,0 +1,18 @@
+body {
+    background: url(weather.png);
+}
+
+header {
+    background: #ffffff;
+}
+
+h1 {
+    background: #4aaaa5;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+.container {
+    width: 960px;
+    margin: auto;
+}
